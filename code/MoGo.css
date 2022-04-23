@@ -430,6 +430,7 @@ textarea {
 }
 .main-slider__btn:hover {
 	background-color: #e2ae78;
+	transition: background-color 0.5s ease 0s;
 }
 @media (max-width: 890px) {
 	.main-slider__btn {
